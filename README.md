@@ -1,3 +1,3 @@
 # LAPlaurier.github.io
 
-to save notes
+- [ ] 博客方案：hugo + github.io
